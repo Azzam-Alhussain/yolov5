@@ -1,0 +1,9 @@
+
+
+train: ../train_test_dataset_4_updated/images/train/
+val: ../train_test_dataset_4_updated/images/test/
+
+# Classes
+nc: 2  # number of classes
+names: ['catheter','bolis']  # class names
+
